@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f50fe96-8462-4f55-bde4-8f01319bdf09" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/numsIntoRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/romanToInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/numsIntoRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/numsIntoRoman.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,11 +34,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="numsIntoRoman.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="numsIntoRoman.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/numsIntoRoman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="144">
+              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="romanToInt.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/romanToInt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+              <folding>
+                <element signature="e#252#269#0" expanded="true" />
+                <element signature="e#489#497#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java1/jdk/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1107">
+              <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -79,6 +105,8 @@
         <option value="$PROJECT_DIR$/src/main/java/MidNums.java" />
         <option value="$PROJECT_DIR$/src/main/java/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/numsIntoRoman.java" />
+        <option value="$PROJECT_DIR$/src/main/java/romanTOINt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/romanToInt.java" />
       </list>
     </option>
   </component>
@@ -157,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.numsIntoRoman">
+  <component name="RunManager" selected="Application.romanToInt">
     <configuration name="MaxString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaxString" />
       <module name="leetCode" />
@@ -173,6 +201,11 @@
     </configuration>
     <configuration name="numsIntoRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="numsIntoRoman" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="romanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="romanToInt" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -218,9 +251,11 @@
       <item itemvalue="Application.MaxString" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.numsIntoRoman" />
+      <item itemvalue="Application.romanToInt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.romanToInt" />
         <item itemvalue="Application.numsIntoRoman" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MaxString" />
@@ -242,12 +277,12 @@
       <workItem from="1545182577282" duration="1685000" />
       <workItem from="1545218739191" duration="599000" />
       <workItem from="1545359334712" duration="599000" />
-      <workItem from="1545830611517" duration="3627000" />
+      <workItem from="1545830611517" duration="6503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13907000" />
+    <option name="totallyTimeSpent" value="16783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -445,10 +480,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/java1/jdk/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1107">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/numsIntoRoman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="144">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/romanToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <element signature="e#252#269#0" expanded="true" />
+            <element signature="e#489#497#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
